@@ -8,7 +8,7 @@ function App() {
     <>
       <nav className="custom-navbar">
         <div className="custom-navbar-content">
-          <span className="custom-navbar-title">Build a Card</span>
+          <span className="custom-navbar-title">Build A Card</span>
           <a href="/create" className="custom-navbar-btn">Get Started</a>
         </div>
       </nav>
